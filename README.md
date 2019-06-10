@@ -3,4 +3,4 @@
 **Author**: Donal D'silva  
 **Date**: 08/06/2019  
 **Repo**: https://github.com/donyd/ScrollMagicDemo  
-**YouTube**: https://youtu.be/6xq8Ki6bH3Y
+**YouTube**: https://youtu.be/RJ_lLOESI6o  
